@@ -8,6 +8,9 @@
 - 🔭 I’m currently working on <a target="_blank" href="https://www.wipro.com/pt-BR/overview/">Wipro</a>
 - 📫 How to reach me: <a target="_blank"  href="https://www.linkedin.com/in/sanches-franklin/">Linkedin</a>
 
+<br>
+<br>
+
 ## Favorite Technologies
 
 <a align="left">
