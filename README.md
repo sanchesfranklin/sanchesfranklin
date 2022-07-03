@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @sanchesfranklin
 - 👀 I’m interested in Web Development, RPA
-- 🌱 I’m currently learning C#/.NET
+- 🌱 I’m developer C#/.NET
 - 🔭 I’m currently working on <a target="_blank" href="https://www.wipro.com/pt-BR/overview/">Wipro</a>
 - 📫 How to reach me: <a target="_blank"  href="https://www.linkedin.com/in/sanches-franklin/">Linkedin</a>
 
