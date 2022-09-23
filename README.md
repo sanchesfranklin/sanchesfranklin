@@ -3,8 +3,8 @@
 </a>
 
 - 👋 Hi, I’m @sanchesfranklin
-- 👀 I’m interested in Web Development, RPA
-- 🌱 I’m developer C#/.NET
+- 👀 I’m interested in Web Development
+- 🌱 I’m developer Full Stack .NET C# - Angular - SQL Server
 - 🔭 I’m currently working on <a target="_blank" href="https://www.wipro.com/pt-BR/overview/">Wipro</a>
 - 📫 How to reach me: <a target="_blank"  href="https://www.linkedin.com/in/sanches-franklin/">Linkedin</a>
 
@@ -32,6 +32,10 @@
         <img src="img/dotnetcore-original.svg" width="50" height="50" alt=".Net" />
           <br>.Net
       </td>
+      <td align="center" width="100">
+            <img src="img/typescript-original.svg" width="50" height="50" alt="C#" />
+            <br>TypeScript
+        </td>
       <tr>
         <td align="center" width="100">
               <img src="img/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap" />
@@ -40,6 +44,10 @@
       <td align="center" width="100">
         <img src="img/javascript-original.svg" width="50" height="50" alt="JavaScript" />
         <br>JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="img/angularjs-original.svg" width="50" height="50" alt="JavaScript" />
+        <br>Angular
       </td>
       <td align="center" width="100">
         <img src="img/html5-original.svg" width="50" height="50" alt="Html5" />
