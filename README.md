@@ -3,7 +3,7 @@
 </a>
 
 - 👋 Hi, I’m @sanchesfranklin
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Developer, Data Engineer
 - 🌱 I’m developer Full Stack .NET C# - Angular - SQL Server
 - 🔭 I’m currently working on <a target="_blank" href="https://www.wipro.com/pt-BR/overview/">Wipro</a>
 - 📫 How to reach me: <a target="_blank"  href="https://www.linkedin.com/in/sanches-franklin/">Linkedin</a>
